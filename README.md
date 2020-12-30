@@ -1,5 +1,5 @@
 # TaskManagment
-Web application made with C# for managing a task in IT companies.
+Web application for managing tasks in IT companies.
 
 The credentials for logging as manager are:
 username: dimo@manager.com
